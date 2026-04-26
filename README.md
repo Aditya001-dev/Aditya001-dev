@@ -1,16 +1,19 @@
-## Hi there 👋
+  Hi, I'm Aditya 👋
 
-<!--
-**Aditya001-dev/Aditya001-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student  
+🚀 Frontend Developer  
+📚 Learning DSA & LeetCode  
+🏋️ Fitness Enthusiast  
 
-Here are some ideas to get you started:
+  Skills
+HTML • CSS • JavaScript • React • Git • GitHub • C++ • Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Current Focus
+- Daily LeetCode consistency
+- Building frontend projects
+- Becoming internship ready
+
+  Goals for 2026
+- 100+ LeetCode problems
+- Strong portfolio website
+- Internship / job ready skills
