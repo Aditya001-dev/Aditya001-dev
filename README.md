@@ -159,6 +159,54 @@ uptime: MAXIMUM
 ---
 
 <!-- ╔══════════════════════════════════════════════════════╗
+     ║  SECTION 03B  ▸  3D CONTRIBUTION MODEL              ║
+     ╚══════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+### ◈ &nbsp; C O N T R I B U T I O N S &nbsp; · &nbsp; R E N D E R E D &nbsp; I N &nbsp; 3 D &nbsp; ◈
+
+<img src="https://raw.githubusercontent.com/Aditya001-dev/Aditya001-dev/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════╗
+     ║  SECTION 03C  ▸  TROPHY CABINET                     ║
+     ╚══════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+### ◈ &nbsp; T R O P H Y &nbsp; C A B I N E T &nbsp; ◈
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aditya001-dev&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" />
+
+</div>
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════╗
+     ║  SECTION 03D  ▸  LIVE METRICS DASHBOARD             ║
+     ╚══════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+### ◈ &nbsp; F U L L &nbsp; D A S H B O A R D &nbsp; ◈
+
+<img width="100%" src="https://metrics.lecoq.io/Aditya001-dev?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Asia%2FKolkata&theme=github-dark" />
+
+</div>
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════╗
      ║  SECTION 04  ▸  PROJECTS — THE CROWN JEWELS         ║
      ╚══════════════════════════════════════════════════════╝ -->
 
