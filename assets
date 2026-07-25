@@ -1,0 +1,93 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050608"/>
+      <stop offset="55%" stop-color="#071018"/>
+      <stop offset="100%" stop-color="#050608"/>
+    </linearGradient>
+
+    <linearGradient id="textGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4dd0ff"/>
+      <stop offset="50%" stop-color="#a8ff78"/>
+      <stop offset="100%" stop-color="#b87dff"/>
+      <animate attributeName="x1" values="0;1;0" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1;2;1" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <radialGradient id="vignette" cx="50%" cy="45%" r="75%">
+      <stop offset="0%" stop-color="#0d2818" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#a8ff78" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- base -->
+  <rect width="1600" height="420" fill="url(#bg)"/>
+  <rect width="1600" height="420" fill="url(#grid)"/>
+  <rect width="1600" height="420" fill="url(#vignette)"/>
+
+  <!-- floating particles -->
+  <g fill="#a8ff78">
+    <circle cx="120" cy="90" r="2"><animate attributeName="opacity" values="0.1;1;0.1" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="1480" cy="120" r="2.5"><animate attributeName="opacity" values="0.1;1;0.1" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="220" cy="330" r="1.6"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="1360" cy="300" r="2" fill="#4dd0ff"><animate attributeName="opacity" values="0.1;1;0.1" dur="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="800" cy="60" r="1.8" fill="#b87dff"><animate attributeName="opacity" values="0.15;1;0.15" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="70" cy="240" r="2" fill="#4dd0ff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.4s" repeatCount="indefinite"/></circle>
+    <circle cx="1520" cy="260" r="1.6"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.9s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- corner HUD brackets -->
+  <g stroke="#a8ff78" stroke-width="2" fill="none" opacity="0.8">
+    <path d="M40,40 L40,80 M40,40 L80,40"/>
+    <path d="M1560,40 L1560,80 M1560,40 L1520,40"/>
+    <path d="M40,380 L40,340 M40,380 L80,380"/>
+    <path d="M1560,380 L1560,340 M1560,380 L1520,380"/>
+  </g>
+
+  <!-- scanline sweep -->
+  <rect x="0" y="0" width="1600" height="6" fill="#a8ff78" opacity="0.25">
+    <animate attributeName="y" values="0;420;0" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- top status line -->
+  <text x="800" y="70" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#4dd0ff" text-anchor="middle" letter-spacing="4" opacity="0.85">
+    ◈ SYSTEM ONLINE &#8212; IDENTITY VERIFIED &#8212; ACCESS GRANTED ◈
+  </text>
+
+  <!-- main name -->
+  <text x="800" y="200" font-family="'Trebuchet MS', Arial, sans-serif" font-weight="800" font-size="96" fill="url(#textGrad)" text-anchor="middle" filter="url(#glow)" letter-spacing="6">
+    ADITYA NAIR
+  </text>
+
+  <!-- underline -->
+  <rect x="500" y="225" width="600" height="2" fill="#a8ff78" opacity="0.6">
+    <animate attributeName="width" values="0;600;600;0" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="800;500;500;800" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- subtitle -->
+  <text x="800" y="270" font-family="Consolas, 'Courier New', monospace" font-size="22" fill="#c9d1d9" text-anchor="middle" letter-spacing="2">
+    AI ENGINEER &#160;&#8226;&#160; CREATIVE DEVELOPER &#160;&#8226;&#160; BUILDER
+  </text>
+
+  <!-- terminal line with blinking cursor -->
+  <text x="800" y="320" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#a8ff78" text-anchor="middle" opacity="0.9">
+    &gt; architecting intelligent systems since 2023_
+    <animate attributeName="opacity" values="1;1;0;0;1" dur="1.6s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- bottom hairline -->
+  <rect x="0" y="410" width="1600" height="1" fill="#a8ff78" opacity="0.15"/>
+</svg>
