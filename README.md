@@ -1,59 +1,108 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1025,25:4a2f6b,50:8a5cb8,75:d17fb8,100:ffb3d9&height=260&section=header&text=ADITYA%20NAIR&fontSize=68&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=✧%20AI%20Engineer%20×%20Creative%20Developer%20×%20Digital%20Dreamer%20✧&descAlignY=62&descSize=17&descColor=ffd6ec" />
+<!-- ============================================================
+     HERO — cinematic aurora banner
+============================================================ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3200&pause=1000&color=FFB3D9&center=true&vCenter=true&width=620&lines=welcome+to+my+little+corner+of+the+internet+✧;i+build+things+that+feel+like+something;RAG+%C2%B7+LLMs+%C2%B7+full-stack+%C2%B7+soft+ui;still+here%3F+let's+build+something+beautiful" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,25:0D1117,50:7C3AED,75:06B6D4,100:050505&height=300&section=header&text=ADITYA%20NAIR&fontSize=80&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Creative%20Developer&descAlignY=58&descSize=17&descColor=A855F7" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/portfolio-1a1025?style=for-the-badge&logoColor=ffb3d9&labelColor=1a1025)](https://aditya-nair.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/linkedin-1a1025?style=for-the-badge&logo=linkedin&logoColor=b388ff&labelColor=1a1025)](https://linkedin.com/in/adityas-nair)
-[![Email](https://img.shields.io/badge/email-1a1025?style=for-the-badge&logo=gmail&logoColor=8ecae6&labelColor=1a1025)](mailto:adityanair1126@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+AI+Experiences;Crafting+Premium+Interfaces;Learning+Every+Day;Open+Source+Enthusiast;Problem+Solver" />
+
+<br/><br/>
+
+<!-- PREMIUM GLASS BUTTONS -->
+<a href="https://aditya-nair.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="https://linkedin.com/in/adityas-nair">
+  <img src="https://img.shields.io/badge/LinkedIn-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+  <img src="https://img.shields.io/badge/LeetCode-A855F7?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="https://aditya-nair.vercel.app/resume.pdf">
+  <img src="https://img.shields.io/badge/Resume-38BDF8?style=for-the-badge&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="mailto:adityanair1126@gmail.com">
+  <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="https://github.com/Aditya001-dev">
+  <img src="https://img.shields.io/badge/GitHub-06B6D4?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+</a>
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:ffb3d9,50:b388ff,100:8ecae6&height=3&section=header" />
+<!-- ============================================================
+     LIVE STATUS PANEL
+============================================================ -->
+
+<div align="center">
+
+|  |  |
+|---|---|
+| 📍 **Location** | India |
+| 🧠 **Currently Learning** | Advanced RAG architectures, agentic workflows |
+| 🎯 **Focus** | AI engineering &nbsp;×&nbsp; Creative frontend |
+| 💼 **Open to Work** | Remote / WFH internships — Frontend & AI |
+| ☕ **Coffee Level** | Critical |
+| 🚀 **Projects Built** | 6+ |
+| 📚 **Currently Studying** | B.Tech CSE (transitioning from Diploma IT) |
+
+</div>
 
 <br/>
 
-<table width="100%">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=6,12,20" width="80%"/>
+</p>
+
+<!-- ============================================================
+     ABOUT ME — glass cards
+============================================================ -->
+
+<div align="center">
+
+## About Me
+
+</div>
+
+<table align="center" width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### ⋆ about ⋆
-
-```
-      .    ✧      .        .
-   ✧      hi, i'm aditya      ✧
-      .        .      ✧    .
-
-  ➳ India, building for the world
-  ➳ AI Engineer · Creative Developer
-  ➳ Diploma IT '23–'26 → B.Tech CSE
-  ➳ obsessed with RAG, agents & soft UI
-
-  "software should feel like
-   something — not just work."
-```
+**🎓 Education**
+<br/>
+Diploma in IT (2023–2026)
+<br/>
+→ B.Tech CSE (2026–2029)
+<br/>
+Parul University
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### ⋆ currently ⋆
-
+**💻 Role**
 <br/>
-
-🌙&nbsp; building **NeuralNote** — an AI second brain
-🪐&nbsp; learning to make interfaces that *feel*
-🎐&nbsp; chasing the line between logic & art
-✨&nbsp; open to collabs that mean something
-
+Full Stack Developer
 <br/>
+at Collaboraone
+<br/>
+Frontend + AI Engineering
 
-> *not chasing trends —*
-> *building what i wish existed.*
+</td>
+<td width="33%" align="center">
+
+**⚡ Philosophy**
+<br/>
+Software should make people
+<br/>
+feel something — not just function.
+<br/>
+Intention over imitation.
 
 </td>
 </tr>
@@ -61,178 +110,284 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:8ecae6,50:b388ff,100:ffb3d9&height=3&section=header" />
-
-<br/>
+<!-- ============================================================
+     TECH STACK
+============================================================ -->
 
 <div align="center">
 
-### ⋆｡°✩ contribution snake ✩°｡⋆
+## Tech Stack
 
-<img src="https://raw.githubusercontent.com/Aditya001-dev/Aditya001-dev/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,threejs,tailwind&theme=dark" />
+
+<br/><br/>
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python&theme=dark" />
+
+<br/><br/>
+
+**AI / ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
+&nbsp;LangChain&nbsp;·&nbsp;RAG&nbsp;·&nbsp;YOLOv8&nbsp;·&nbsp;Vector DBs
+
+<br/><br/>
+
+**Cloud / DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,vercel,docker,git,github&theme=dark" />
+
+<br/><br/>
+
+**Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,prisma&theme=dark" />
+
+<br/><br/>
+
+**Creative**
+<br/>
+<img src="https://skillicons.dev/icons?i=threejs,figma,solidity&theme=dark" />
 
 </div>
 
 <br/>
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=6,12,20" width="80%"/>
+</p>
 
-### ⋆｡°✩ contributions, rendered in 3d ✩°｡⋆
-
-<img src="https://raw.githubusercontent.com/Aditya001-dev/Aditya001-dev/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:ffb3d9,50:8ecae6,100:b388ff&height=3&section=header" />
-
-<br/>
+<!-- ============================================================
+     FEATURED PROJECTS
+============================================================ -->
 
 <div align="center">
 
-### ⋆ what i've shipped ⋆
+## Featured Projects
 
 </div>
 
-<table width="100%">
+<table align="center" width="100%">
+
 <tr>
 <td width="50%" valign="top">
 
-**🌸 NeuralNote** &nbsp;·&nbsp; *flagship*
-AI note-taking with RAG search & LLM summarization
-<sub>`LangChain` `Next.js` `Vector DB`</sub>
+### 🧠 AgentForge — *Flagship*
+Multi-agent AI orchestration SaaS. Production-hardened with clean auth flows, full type safety, and a production build.
 
-<br/>
+`Next.js 14` `Supabase` `Prisma` `Gemini AI`
 
-**🩵 SmartGrid**
-Real-time IoT dashboard with predictive alerts
-<sub>`React` `IoT` `ML`</sub>
-
-<br/>
-
-**💜 VisionGuard**
-Sub-50ms threat detection on live video
-<sub>`YOLOv8` `FastAPI` `CV`</sub>
+[GitHub ↗](https://github.com/Aditya001-dev)
 
 </td>
 <td width="50%" valign="top">
 
-**🤍 ChainVault**
-Multi-sig DeFi asset manager on Ethereum
-<sub>`Solidity` `Web3`</sub>
+### 📝 NeuralNote
+AI-powered note-taking with semantic search — RAG pipelines and LLM-assisted summarization built on a real production stack.
+
+`Next.js 14` `LangChain` `OpenAI` `Pinecone`
+
+[GitHub ↗](https://github.com/Aditya001-dev)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ SmartGrid v2.0
+Real-time IoT dashboard with live sensor streams, predictive energy optimization, and Claude-powered alert explanations.
+
+`React` `Supabase Realtime` `Recharts` `Claude AI`
+
+[GitHub ↗](https://github.com/Aditya001-dev)
+
+</td>
+<td width="50%" valign="top">
+
+### 👁 VisionGuard
+Real-time computer-vision threat detection running on live video streams at sub-50ms latency.
+
+`YOLOv8` `FastAPI` `Computer Vision`
+
+[GitHub ↗](https://github.com/Aditya001-dev)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔗 ChainVault
+Decentralized asset management with multi-sig wallets on Ethereum — a full DeFi stack integrated end-to-end.
+
+`Solidity` `Web3` `DeFi`
+
+[GitHub ↗](https://github.com/Aditya001-dev)
+
+</td>
+<td width="50%" valign="top">
+
+### 🕶 HoloLearn
+Browser-native AR lessons — 3D content overlaid on reality with zero install, built on the open web.
+
+`WebXR` `WebGL` `Three.js`
+
+[GitHub ↗](https://github.com/Aditya001-dev)
+
+</td>
+</tr>
+
+</table>
+
+<div align="center">
+
+[**View all repositories →**](https://github.com/Aditya001-dev?tab=repositories)
+
+</div>
 
 <br/>
 
-**🌊 ARLearn**
-Browser-native AR lessons, zero install
-<sub>`WebXR` `Three.js`</sub>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=6,12,20" width="80%"/>
+</p>
+
+<!-- ============================================================
+     GITHUB STATS
+============================================================ -->
+
+<div align="center">
+
+## GitHub Stats
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aditya001-dev&show_icons=true&theme=react&bg_color=050505&title_color=A855F7&text_color=94A3B8&icon_color=38BDF8&border_color=7C3AED&border_radius=14&include_all_commits=true&count_private=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya001-dev&layout=compact&theme=react&bg_color=050505&title_color=A855F7&text_color=94A3B8&border_color=7C3AED&border_radius=14&langs_count=8" />
+
+<br/><br/>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=Aditya001-dev&theme=dark&background=050505&border=7C3AED&ring=A855F7&fire=06B6D4&currStreakLabel=A855F7&sideLabels=94A3B8&dates=6b7280&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=050505&border_radius=14" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya001-dev&bg_color=050505&color=A855F7&line=38BDF8&point=FFFFFF&area_color=7C3AED&area=true&hide_border=false&border_color=7C3AED&radius=14" />
+
+</div>
 
 <br/>
 
-**✨ AgentForge**
-Autonomous agents that plan, code & deploy
-<sub>`CrewAI` `LangGraph`</sub>
+<!-- ============================================================
+     SNAKE CONTRIBUTION — paste your existing snake SVG URL here
+============================================================ -->
+
+<div align="center">
+
+## Contribution Snake
+
+<!-- Replace the src below with your existing GitHub Snake action output URL -->
+<img src="https://raw.githubusercontent.com/Aditya001-dev/Aditya001-dev/output/github-contribution-grid-snake.svg" width="100%" alt="github contribution snake" />
+
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=6,12,20" width="80%"/>
+</p>
+
+<!-- ============================================================
+     LEETCODE
+============================================================ -->
+
+<div align="center">
+
+## LeetCode
+
+<!-- Replace YOUR_LEETCODE_USERNAME with your actual handle -->
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Inter&ext=heatmap&border=7C3AED" width="75%" />
+
+</div>
+
+<br/>
+
+<!-- ============================================================
+     CURRENT FOCUS — timeline
+============================================================ -->
+
+<div align="center">
+
+## Current Focus
+
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td width="25%" align="center">
+
+**📖 Learning**
+<br/>
+Advanced RAG & agentic orchestration patterns
+
+</td>
+<td width="25%" align="center">
+
+**🛠 Building**
+<br/>
+Production-grade AI SaaS tooling
+
+</td>
+<td width="25%" align="center">
+
+**🔭 Exploring**
+<br/>
+Where generative AI meets real-time interfaces
+
+</td>
+<td width="25%" align="center">
+
+**💬 Open to**
+<br/>
+Internships & collaborations
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 <div align="center">
 
-[![all repos](https://img.shields.io/badge/view_all_repos-ffb3d9?style=for-the-badge&logoColor=1a1025&labelColor=1a1025&color=1a1025)](https://github.com/Aditya001-dev?tab=repositories)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:b388ff,50:ffb3d9,100:8ecae6&height=3&section=header" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=6,12,20" width="80%"/>
+</p>
 
-<br/>
-
-<div align="center">
-
-### ⋆ the arsenal ⋆
-
-<img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,fastapi,tensorflow,langchain,threejs,solidity,docker,aws,git&theme=dark&perline=6" />
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:8ecae6,50:ffb3d9,100:b388ff&height=3&section=header" />
-
-<br/>
+<!-- ============================================================
+     FOOTER
+============================================================ -->
 
 <div align="center">
 
-### ⋆ trophy shelf ⋆
+### Let's build something.
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aditya001-dev&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" />
+I'm not just looking for a job — I'm looking for a collaboration worth shipping. Reach out.
 
-</div>
+<a href="mailto:adityanair1126@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://linkedin.com/in/adityas-nair"><img src="https://img.shields.io/badge/LinkedIn-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://github.com/Aditya001-dev"><img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
 
-<br/>
+<br/><br/>
 
-<div align="center">
-
-### ⋆ stats ⋆
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aditya001-dev&show_icons=true&hide_border=true&bg_color=1a1025&title_color=ffb3d9&icon_color=b388ff&text_color=e8d9f0&ring_color=8ecae6" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya001-dev&layout=compact&hide_border=true&bg_color=1a1025&title_color=ffb3d9&text_color=e8d9f0" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Aditya001-dev&background=1a1025&border=1a1025&ring=b388ff&fire=ffb3d9&currStreakLabel=ffb3d9&sideLabels=e8d9f0&dates=8a7a9c&currStreakNum=e8d9f0&sideNums=e8d9f0&stroke=1a1025" />
+![Profile Views](https://komarev.com/ghpvc/?username=Aditya001-dev&label=Profile%20Views&color=7C3AED&style=flat-square)
 
 </div>
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:ffb3d9,50:b388ff,100:8ecae6&height=3&section=header" />
-
-<br/>
-
-<table align="center" width="90%"><tr><td>
-
-```
-     .            ✧               .
-
-     every line of code i write has
-     a point of view, not just logic.
-
-     an ai that understands what you mean.
-     an animation that earns its place.
-     an interface that respects you.
-
-     one idea away from something
-     extraordinary — every single day.
-
-                              — aditya
-
-     .               ✧            .
-```
-
-</td></tr></table>
-
-<br/>
-
-<div align="center">
-
-### ⋆ let's talk ⋆
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=15&duration=2600&pause=1200&color=B388FF&center=true&vCenter=true&width=600&lines=not+looking+for+a+job.;looking+for+a+collaboration+that+matters." />
-
-<br/>
-
-[![Email](https://img.shields.io/badge/adityanair1126%40gmail.com-1a1025?style=for-the-badge&logo=gmail&logoColor=ffb3d9)](mailto:adityanair1126@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/adityas--nair-1a1025?style=for-the-badge&logo=linkedin&logoColor=8ecae6)](https://linkedin.com/in/adityas-nair)
-[![Portfolio](https://img.shields.io/badge/portfolio-1a1025?style=for-the-badge&logo=vercel&logoColor=b388ff)](https://aditya-nair.vercel.app)
-
-<br/>
-
-![Views](https://komarev.com/ghpvc/?username=Aditya001-dev&label=visitors&color=ffb3d9&style=flat-square)
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8ecae6,25:b388ff,50:d17fb8,75:4a2f6b,100:1a1025&height=140&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,25:7C3AED,50:A855F7,75:06B6D4,100:050505&height=120&section=footer&animation=twinkling" />
